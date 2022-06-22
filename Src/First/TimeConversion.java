@@ -1,5 +1,7 @@
 package Src.First;
-
+/*
+ * Solution of HackerRank Preparation Kit.
+ */
 class Result {
 
     public static String timeConversion(String s) {
