@@ -14,4 +14,11 @@
 
 |Day 2| Source | Solution|
 |-----|--------|---------|
-|[Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) | HackerRank | [Solution](https://github.com/komalpatel300902/Preparation-Kit/blob/master/Src/First/LonelyInteger.java)
+|[Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) | HackerRank | [Solution](https://github.com/komalpatel300902/Preparation-Kit/blob/master/Src/First/LonelyInteger.java)|
+|[Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) | HackerRank |[Solution](https://github.com/komalpatel300902/Preparation-Kit/blob/master/Src/First/DiagonalDifference.java)|
+|[Counting Sort](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) | HackerRank | [Solution](https://github.com/komalpatel300902/Preparation-Kit/blob/master/Src/First/CountingSort.java)|
+
+
+|Day 3 | Source | Solution|
+|------|--------|---------|
+|[Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three) | HackerRank | [Solution](https://github.com/komalpatel300902/Preparation-Kit/blob/master/Src/First/ZigZagSequence.java)
