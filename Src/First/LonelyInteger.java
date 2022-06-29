@@ -5,6 +5,12 @@ package Src.First;
 
 import java.util.*;
 
+public class LonelyInteger {
+    /*
+     * This block of code will be provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static int lonelyinteger(List<Integer> a) {
@@ -28,8 +34,3 @@ class Result {
 }
 
 
-public class LonelyInteger {
-    /*
-     * This block of code will be provided by HackerRank.
-     */
-}

@@ -4,6 +4,13 @@ package Src.First;
  */
 
 import java.util.*;
+
+public class CountingSort {
+    /*
+     * This block of code is provided by HackerRank.
+     */
+}
+
 class Result {
     
     public static List<Integer> countingSort(List<Integer> arr) {
@@ -20,8 +27,4 @@ class Result {
     }
 }
 
-public class CountingSort {
-    /*
-     * This block of code is provided by HackerRank.
-     */
-}
+

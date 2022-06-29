@@ -2,6 +2,13 @@ package Src.First;
 /*
  * Solution of HackerRank Preparatio Kit.
  */
+
+ public class CaesarCipher {
+    /*
+     * This block of code will be Provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static String caesarCipher(String s, int k) {
@@ -32,8 +39,4 @@ class Result {
 
 }
 
-public class CaesarCipher {
-    /*
-     * This block of code will be Provided by HackerRank.
-     */
-}
+

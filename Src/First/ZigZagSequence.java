@@ -1,5 +1,7 @@
 package Src.First;
 import java.util.*;
+
+
 public class ZigZagSequence {
     public static void main (String[] args) throws java.lang.Exception {
         Scanner kb = new Scanner(System.in);

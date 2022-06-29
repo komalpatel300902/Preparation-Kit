@@ -6,6 +6,13 @@ package Src.First;
  */
 
 import java.util.*;
+
+public class PlusMinus {
+    /*
+     * This block is Give by HackerRank.
+     */
+}
+
 class Result {
     
     public static void plusMinus(List<Integer> arr) {
@@ -23,10 +30,4 @@ class Result {
         System.out.println((double)zero/size);
     }
 
-}
-
-public class PlusMinus {
-    /*
-     * This block is Give by HackerRank.
-     */
 }

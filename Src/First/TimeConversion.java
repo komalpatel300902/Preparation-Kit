@@ -2,6 +2,13 @@ package Src.First;
 /*
  * Solution of HackerRank Preparation Kit.
  */
+
+public class TimeConversion {
+    /*
+     * This block of code will be provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static String timeConversion(String s) {
@@ -34,9 +41,3 @@ class Result {
 
 }
 
-
-public class TimeConversion {
-    /*
-     * This block of code will be provided by HackerRank.
-     */
-}

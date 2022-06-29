@@ -4,6 +4,13 @@ package Src.First;
  */
 
 import java.util.*;
+
+public class MinMaxSum {
+    /*
+     * This block of code is provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static void miniMaxSum(List<Integer> arr) {
@@ -24,8 +31,4 @@ class Result {
 
 }
 
-public class MinMaxSum {
-    /*
-     * This block of code is provided by HackerRank.
-     */
-}
+

@@ -3,6 +3,13 @@ package Src.First;
  * Solution of HackerRank Preparation Kit.
  */
 import java.util.*;
+
+public class DiagonalDifference {
+       /*
+        * This block of code is provided by HackerRank.
+        */
+}
+
 class Result {
 
     public static int diagonalDifference(List<List<Integer>> arr) {
@@ -18,8 +25,4 @@ class Result {
 
 }
 
-public class DiagonalDifference {
-       /*
-        * This block of code is provided by HackerRank.
-        */
-}
+

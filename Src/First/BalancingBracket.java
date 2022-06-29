@@ -4,6 +4,12 @@ package Src.First;
  */
 import java.util.*;
 
+public class BalancingBracket {
+    /*
+     * This block of Code will be provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static String isBalanced(String s) {
@@ -58,9 +64,4 @@ class Result {
 
     }
 
-}
-public class BalancingBracket {
-    /*
-     * This block of Code will be provided by HackerRank.
-     */
 }

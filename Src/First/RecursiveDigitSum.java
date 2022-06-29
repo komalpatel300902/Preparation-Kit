@@ -4,6 +4,12 @@ package Src.First;
  */
 import java.math.*;
 
+public class RecursiveDigitSum {
+    /*
+     * This bolck of code is Provided by HackerRank.
+     */
+}
+
 class Result {
 
     public static int superDigit(String n, int k) {
@@ -24,8 +30,3 @@ class Result {
 }
 
 
-public class RecursiveDigitSum {
-    /*
-     * This bolck of code is Provided by HackerRank.
-     */
-}

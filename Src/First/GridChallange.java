@@ -5,6 +5,12 @@ package Src.First;
 
 import java.util.*;
 
+public class GridChallange {
+    /*
+     * This block of code is given by HackerRank.
+     */
+}
+
 class Result {
 
     public static String gridChallenge(List<String> grid) {
@@ -49,8 +55,3 @@ class Result {
 
 }
 
-public class GridChallange {
-    /*
-     * This block of code is given by HackerRank.
-     */
-}
